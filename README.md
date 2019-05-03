@@ -7,5 +7,5 @@ This project is about combining various ideas and skills we’ve been practicing
     Updating views
     Properly scoping variables
     Finding views by their ID
-   ## Screenshots
-   <img src="" width="200"> <img src="" width="200">
+## Screenshots
+<img src="Screenshots/Screenshot_20190503-155029.png" width="200"> <img src="Screenshots/Screenshot_20190503-155053.png" width="200">
